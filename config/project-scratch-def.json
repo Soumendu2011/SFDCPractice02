@@ -1,0 +1,16 @@
+{
+  "orgName": "Sarkar Company",
+  "edition": "Developer",
+  "adminEmail": "soumendu2011@hotmail.com",
+  "description": "Created for testing and learning perpose . Date:07/05/2022",
+  "hasSampleData": true,
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
